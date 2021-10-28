@@ -1,2 +1,2 @@
 my_dogs = ['Sammy', 'Rosy']
-my_dogs
+print(my_dogs)
