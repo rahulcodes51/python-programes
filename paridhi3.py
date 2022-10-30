@@ -1,1 +1,2 @@
+0000
 print("HELLO WORLD")
